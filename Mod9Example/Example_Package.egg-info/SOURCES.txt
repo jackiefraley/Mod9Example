@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+Example Package/__init__.py
+Example Package/hello.py
+Example_Package.egg-info/PKG-INFO
+Example_Package.egg-info/SOURCES.txt
+Example_Package.egg-info/dependency_links.txt
+Example_Package.egg-info/top_level.txt
